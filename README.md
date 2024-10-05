@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @psuedo-minami
-- 👀 I’m interested in taking over the world
-- 🌱 I’m currently learning how to take over the world
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't. or pray
-- 😄 Pronouns: chosen/one
-- ⚡ Fun fact: im a winner
+Currently a cocky script kiddie, but I'm practicing. Looking to take over the universe. If that is satisfactory with you of course.
 
 <!---
 psuedo-minami/psuedo-minami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
